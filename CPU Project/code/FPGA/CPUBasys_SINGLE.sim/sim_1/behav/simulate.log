@@ -1,0 +1,7 @@
+Vivado Simulator 2015.4
+Time resolution is 1 ps
+WARNING: Too many words specified in data file C://Users//czh//Desktop//single-cycle-CPU-master//code//CPUBasys_SINGLE//romData.txt
+iaddr:          x insmemrw: 1 inst;          x
+0
+iaddr:          0 insmemrw: 1 inst;   67174408
+0

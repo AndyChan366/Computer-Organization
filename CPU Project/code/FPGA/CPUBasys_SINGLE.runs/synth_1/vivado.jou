@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Fri Dec 13 15:07:58 2019
+# Process ID: 19024
+# Current directory: C:/Users/czh/Desktop/CPU/code/FPGA/CPUBasys_SINGLE.runs/synth_1
+# Command line: vivado.exe -log showCPU.vds -mode batch -messageDb vivado.pb -notrace -source showCPU.tcl
+# Log file: C:/Users/czh/Desktop/CPU/code/FPGA/CPUBasys_SINGLE.runs/synth_1/showCPU.vds
+# Journal file: C:/Users/czh/Desktop/CPU/code/FPGA/CPUBasys_SINGLE.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source showCPU.tcl -notrace
